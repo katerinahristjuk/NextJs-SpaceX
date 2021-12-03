@@ -1,0 +1,9 @@
+.detail{
+    text-align: center;
+}
+.detail>h1>span{
+    color: rgb(197, 1, 1);
+}
+.detail>h3{
+    color: gray;
+}

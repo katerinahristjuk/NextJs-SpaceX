@@ -1,0 +1,20 @@
+.mission{
+    border: 2px solid blue;
+    border-radius: 15px;
+    background: linear-gradient(to right, black 50%, blue 100%);
+    padding: 10px;
+}
+.mission:hover{
+    cursor: pointer;
+}
+.mission>img{
+    height: 70px;
+    width: 70px;
+}
+.mission>h3{
+    color: rgb(197, 1, 1);
+}
+.mission>h4{
+    color: gray;
+    font-size: 0.8em;
+}

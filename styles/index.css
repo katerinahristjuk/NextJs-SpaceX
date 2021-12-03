@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+body{
+    background: linear-gradient(to right, black 50%, blue 100%);
+    padding: 20px;
+}
